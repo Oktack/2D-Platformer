@@ -341,8 +341,16 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scripts/AutoReplay.cs"
+"Assets/Scripts/Bullet.cs"
+"Assets/Scripts/Data.cs"
+"Assets/Scripts/EnemyController.cs"
 "Assets/Scripts/FollowTarget.cs"
+"Assets/Scripts/GameOver.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/QuitOrNext.cs"
+"Assets/Scripts/ShowScore.cs"
+"Assets/Scripts/SoundManager.cs"
 -langversion:8.0
 
 /deterministic
